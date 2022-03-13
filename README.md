@@ -20,4 +20,4 @@ NPC movement across houses will lead to spread of disease.
 • Anil Maity[https://github.com/Anilmaity] • Rajat Gurnani[https://github.com/RajatGurnani] • Rohan[https://github.com/rohansahni1999]
 
 # You can play it on the link below  "Have fun !!! :)" 
-https://anilmaity.github.io/Game/
+https://anilmaity.github.io/CovidYoddha-Game-/
